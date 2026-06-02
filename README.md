@@ -52,31 +52,7 @@ This repository contains the **CropGuard AI Premium Edition**—a highly customi
 | MobileNetV2 | 93.54% | 93.42% | 0.1980 | 0.9356 |
 | EfficientNetB3 | 96.56% | 96.25% | 0.1029 | 0.9659 |
 
-## Quick Start
 
-### Prerequisites
-- Python 3.8+
-- TensorFlow 2.x
-- Flask
-- Google Gemini API Key
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/GitHub-AmanBhardwaj/Crop-Disease-detection.git
-cd Crop-Disease-detection
-```
-
-2. **Install dependencies**
-```bash
-pip install tensorflow flask numpy matplotlib seaborn scikit-learn pillow pandas google-generativeai python-dotenv
-```
-
-3. **Set up environment variables**
-```bash
-export GEMINI_API_KEY="your_gemini_api_key_here"
-```
 
 ## Usage
 
@@ -156,25 +132,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 2. Set the environment variable
 3. The Flask app will generate treatment recommendations automatically
 
-## Authors
-
-- **Aman Bhardwaj** - *Lead Developer* - [GitHub](https://github.com/GitHub-AmanBhardwaj)
-  - Email: whyamanbhardwaj@gmail.com
-- **Jeet Bhardwaj** - *Co-Developer* - Email: thejeetbhardwaj@gmail.com
-- **Sumit Dhariwal** - *Supervisor* - Email: sumitdhariwal22@gmail.com
-
-## Affiliation
-
-**Centre for AI, Madhav Institute of Technology and Science (MITS-DU), Gwalior, India**
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For questions and support:
-- Email: whyamanbhardwaj@gmail.com
-- Issues: [GitHub Issues](https://github.com/GitHub-AmanBhardwaj/Crop-Disease-detection/issues)
-
-⭐ **Star this repository if you find it helpful!** 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
