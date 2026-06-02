@@ -136,7 +136,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 - **Ansh Shukla (Ansh SPC)** - *Premium Edition Customizer & Maintainer*
   - **GitHub**: [github.com/anshspc](https://github.com/anshspc)
-  - **Email**: [anshshukla.work@gmail.com](mailto:anshshukla.work@gmail.com)
+  - **Email**: [ianshshuklaoffc@gmail.com](mailto:ianshshuklaoffc@gmail.com)
 
 ## License
 
