@@ -132,6 +132,12 @@ GEMINI_API_KEY=your_gemini_api_key_here
 2. Set the environment variable
 3. The Flask app will generate treatment recommendations automatically
 
+## Maintainer & Contact
+
+- **Ansh Shukla (Ansh SPC)** - *Premium Edition Customizer & Maintainer*
+  - **GitHub**: [github.com/anshspc](https://github.com/anshspc)
+  - **Email**: [anshshukla.work@gmail.com](mailto:anshshukla.work@gmail.com)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
